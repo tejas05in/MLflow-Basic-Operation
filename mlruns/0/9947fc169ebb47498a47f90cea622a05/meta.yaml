@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/MLProjectsPW/mlflow-test/mlruns/0/9947fc169ebb47498a47f90cea622a05/artifacts
+end_time: 1701279141346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9947fc169ebb47498a47f90cea622a05
+run_name: able-jay-761
+run_uuid: 9947fc169ebb47498a47f90cea622a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701279138814
+status: 3
+tags: []
+user_id: tejas

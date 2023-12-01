@@ -47,16 +47,14 @@ pipenv install awscli
 pipenv install boto3
 
 pipenv shell
-```
 
 
 ## Then set aws credentials
-```bash
+
 aws configure
-```
 
 ## Finally 
-```bash
+
 mlflow server -h 0.0.0.0 --default-artifact-root s3://mlflow-buc1
 ```
 
